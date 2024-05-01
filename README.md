@@ -6,82 +6,55 @@
 
 ## Índice
 
-> Se você está buscando uma experiência **mais visual**, sugiro meu [portfólio](URL_DO_SEU_PORTFOLIO).
-
 - ### 1. Profissional
 
-  - [1.1. Experiências na Programação](#id_programmer_experience)
-  - [1.2. Projetos Destaque](#id_projects)
+  - [1.1. Experiências na Programação](#experiencia-programacao)
+  - [1.2. Projetos Destaque](#projetos-destaque)
 
 ---
 
-- ### 2. Tecnologias
+- ### 2. Cursos
 
-  - [2.1. Desenvolvimento Web](#id_web_dev)
-  - [2.2. Ciência de Dados](#id_data_science)
-  - [2.3. Outras Tecnologias](#id_other_tecnologies)
-  - [2.4. Métricas](#id_metrics)
+  - [2.1. Cursos](#cursos)
+  
 
 ---
 
 - ### 3. Pessoal
 
-  - [3.1 Trajetória](#id_trajectory)
+  - [3.1 Trajetória](#trajetoria)
 
 ---
 
 ## 1. Profissional
 
-### 1.1 Experiência na Programação
+### <a name="experiencia-programacao"></a> 1.1 Experiência na Programação
 
-> Contarei sobre minhas primeiras experiências com programação e como estou me desenvolvendo nessa área.
+> Meu primeiro contato com a Programação, foi aos 16 anos, através de um curso do Senac que envolvia: Desenvolver Sistemas de informação, Realizar testes e manutenção do sistema de informação e Implementar banco de dados; Hoje estou cursando Engenharia de Software na Universidade Católica do Salvador 
 
 ---
 
-### 1.2 Projetos Destaque
+### <a name="projetos-destaque"></a> 1.2 Projetos Destaque
+
 
 | Projetos | Tecnologia |
 |:-:|:-:|
-|Projeto 1|Tecnologias Utilizadas|
-|Projeto 2|Tecnologias Utilizadas|
-|Projeto 3|Tecnologias Utilizadas|
+|Sistema Escolar| <img width = 50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" />|
 
-## 2. Tecnologias
 
-### 2.1 Desenvolvimento Web
+## 2. Cursos
 
-| Frontend | Backend | Testes |
-|:-:|:-:|:-:|
-|Tecnologias Frontend|Tecnologias Backend|Ferramentas de Testes|
+### <a name="cursos"></a> 2.1 Cursos
 
-### 2.2 Ciência de Dados
 
 | Curso | Bolsa/Patrocínio/Tecnologias |
 |:-:|:-:|
-|Nome do Curso|Tecnologias Utilizadas|
-
-### 2.3 Outras Tecnologias
-
-| Tecnologias |
-|:-:|
-|Lista de outras tecnologias que estou aprendendo|
-
-### 2.4 Métricas
-
-|Métricas|
-|:-:|
-|Métricas de código ou outras métricas relevantes|
+|Java Bootcamp|<img width = 50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />|
+|Programador de Sistemas Senac| <img width = 50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" /> <img width = 50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" />|
 
 ## 3. Pessoal
 
-### 3.1 Trajetória
+### <a name="trajetoria"></a> 3.1 Trajetória
 
-> Contarei um pouco sobre minha jornada pessoal até agora e como cheguei a escolher Engenharia de Software como minha área de estudo.
-|:-:|
-|Métricas de código ou outras métricas relevantes|
-
-<h2 id="id_personal_info">3. Pessoal</h2>
-
-<h3 id="id_trajectory">3.1 Trajetória</h3>
-
-> Conte um pouco sobre sua história pessoal, suas experiências e como chegou até aqui como desenvolvedor.
+> Sempre fui um jovem apaixonado por tecnologia e jogos. Desde muito cedo, sempre me fascinei pelo mundo digital, passando horas explorando jogos e desvendando os mistérios por trás da tecnologia.
+Essa paixão natural pela tecnologia me acompanhou ao longo da vida, e conforme fui crescendo, percebi que não era apenas um hobby, mas sim uma verdadeira vocação. Decidi então transformar minha paixão em profissão, escolhendo embarcar na jornada da Engenharia de Software.
