@@ -4,25 +4,6 @@
 |:-:|:-:|
 |<img width="175" src="https://i.imgur.com/6LSVRDp.jpg" alt="Foto de Raniel Lopes">|<p>Olá! Eu sou um estudante de Engenharia de Software no meu terceiro semestre. É um prazer ter você aqui.</p> <p>Estou apenas começando minha jornada na área de desenvolvimento de software e estou muito animado<br> para aprender mais sobre esse mundo fascinante.</p><p>Quer saber mais sobre mim? Continue lendo!</p>
 
-
-## Índice
-
-- ### 1. Profissional
-  - [1.1. Experiências na Programação](#experiencia-programacao)
-  - [1.2. Projetos Destaque](#projetos-destaque)
-
----
-
-- ### 2. Cursos
-  - [2.1. Cursos](#cursos)
-
----
-
-- ### 3. Pessoal
-  - [3.1 Trajetória](#trajetoria)
-
----
-
 ## 1. Profissional
 
 ### <a name="experiencia-programacao"></a> 1.1 Experiência na Programação
